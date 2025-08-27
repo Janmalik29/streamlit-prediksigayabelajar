@@ -1,6 +1,5 @@
-Numpy == 2.3.1
-Pandas == 2.3.0
-Streamlit
-Pickle
-Scikit-learn
-Pip == 25.1.1
+numpy == 2.3.1
+pandas == 2.3.0
+streamlit
+scikit-learn
+pip == 25.1.1
